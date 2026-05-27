@@ -1,5 +1,6 @@
 algoritmo "reservas_restaurante"
 
+```bash
 var
    vetorNome: vetor[1..10] de caractere
    vetorPessoas: vetor[1..10] de inteiro
@@ -157,3 +158,4 @@ inicio
    ate opcao = 6
 
 fimalgoritmo
+```
